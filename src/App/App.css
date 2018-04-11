@@ -1,0 +1,12 @@
+
+.shoppingCart {
+  width: 70%;
+  position: relative;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.totalPrice {
+  font-size: 20px;
+  text-align: right;
+}
